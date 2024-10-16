@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+    <script defer src="signup.js"></script>
+    <link href="signup.css" rel="stylesheet">
+</head>
+<body>
+    
+    <div class="container">
+        <div class="header">
+            <h2>Create Account</h2>
+        </div>
+
+        <form class="form" id="form" method="post" action= "signup.php"  > 
+         <div class="form-control">
+            <label for="Username">UserName</label>
+            <input id="Username" name="Username" type="text" placeholder="John">
+            <i class="fas fa-check-circle"></i>
+            <i class="fas fa-exclamation-circle"></i>
+            <small>Error message</small>
+         </div>
+         <div class="form-control">
+            <label for="Email">Email</label>
+            <input id="Email" name="Email" type="Email" placeholder="example@gmail.com">
+            <i class="fas fa-check-circle"></i>
+            <i class="fas fa-exclamation-circle"></i>
+            <small>Error message</small>
+         </div>
+         <div class="form-control">
+            <label for="Password">Password</label>
+            <input id="Password" name="Password" type="password" placeholder="iawygdf876esabf">
+            <i class="fas fa-check-circle"></i>
+            <i class="fas fa-exclamation-circle"></i>
+            <small>Error message</small>
+         </div>
+         <div class="form-control">
+            <label for="Password">Confirm Password</label>
+            <input id="Password2" name="Password" type="Password" placeholder="iawygdf876esabf">
+            <i class="fas fa-check-circle"></i>
+            <i class="fas fa-exclamation-circle"></i>
+            <small>Error message</small>
+         </div>
+        <button type="submit">Submit</button>
+    </form>
+    </div>
+</body>
+</html>

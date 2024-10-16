@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employee_Database>
+<Employee>
+<div style="word-spacing:20px;">
+    <EmployeeID>01</EmployeeID>
+    <EmployeName>Joe</EmployeName>
+    <EmployeeAdress>CapeTown</EmployeeAdress>
+    <DepartmentID>D_101</DepartmentID>
+    </div>
+</Employee>
+<Employee>
+<div style="word-spacing:20px;">
+<EmployeeID>02</EmployeeID>
+    <EmployeName>Annie</EmployeName>
+    <EmployeeAdress>Fransisco</EmployeeAdress>
+    <DepartmentID>D_103</DepartmentID>
+    </div>
+</Employee>
+<Employee>
+<div style="word-spacing:20px;">
+<EmployeeID>03</EmployeeID>
+    <EmployeName>Peter</EmployeName>
+    <EmployeeAdress>CroyCity</EmployeeAdress>
+    <DepartmentID>D_101</DepartmentID>
+    </div>
+</Employee>
+<Employee>
+<div style="word-spacing:20px;">
+<EmployeeID>04</EmployeeID>
+    <EmployeName>John</EmployeName>
+    <EmployeeAdress>Fransisco</EmployeeAdress>
+    <DepartmentID>D_102</DepartmentID>
+    </div>
+</Employee>
+<Employee>
+<div style="word-spacing:20px;">
+  <EmployeeID>05</EmployeeID>
+    <EmployeName>Luna</EmployeName>
+    <EmployeeAdress>Tokyo</EmployeeAdress>
+    <DepartmentID>D_106</DepartmentID>
+    </div>
+</Employee>
+<Employee>
+<div style="word-spacing:20px;">
+  <EmployeeID>06</EmployeeID>
+    <EmployeName>Soni</EmployeName>
+    <EmployeeAdress>W.Land</EmployeeAdress>
+    <DepartmentID>D_105</DepartmentID>
+    </div>
+</Employee>
+<Department>
+<div style="word-spacing:20px;">
+<DepartmentID>D_101</DepartmentID>
+<DepartmentName>Eco</DepartmentName>
+    </div>
+</Department>
+<Department>
+<div style="word-spacing:20px;">
+<DepartmentID>D_102</DepartmentID>
+<DepartmentName>CS</DepartmentName>
+    </div>
+</Department>
+<Department>
+<div style="word-spacing:20px;">
+<DepartmentID>D_103</DepartmentID>
+<DepartmentName>Java</DepartmentName>
+    </div>
+</Department>
+<Department>
+<div style="word-spacing:20px;">
+<DepartmentID>D_104</DepartmentID>
+<DepartmentName>Maths</DepartmentName>
+    </div>
+</Department>
+<Department>
+<div style="word-spacing:20px;">
+<DepartmentID>D_105</DepartmentID>
+<DepartmentName>Bio</DepartmentName>
+    </div>
+</Department>
+<Department>
+<div style="word-spacing:20px;">
+<DepartmentID>D_106</DepartmentID>
+<DepartmentName>Civil</DepartmentName>
+    </div>
+</Department>
+</Employee_Database>
